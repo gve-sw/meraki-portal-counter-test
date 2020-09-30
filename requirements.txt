@@ -1,0 +1,5 @@
+tornado
+nose
+meraki-sdk==1.5.0
+flask
+elasricsearch
